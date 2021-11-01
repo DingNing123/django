@@ -1,0 +1,6 @@
+.files
+tests/shortcuts/test_make_toast.py
+jango/shortcuts.py
+docs/topics/http/shortcuts.txt
+docs/releases/2.2.txt
+docs/releases/4.1.txt
